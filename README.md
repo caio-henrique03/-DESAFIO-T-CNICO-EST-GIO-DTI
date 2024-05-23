@@ -1,2 +1,2 @@
-# Desafia técnico DTI
-Trabalho prático DTI
+# Desafio técnico DTI
+DESAFIO TÉCNICO (ESTÁGIO) – QUALITY ASSURANCE ENGINEER
