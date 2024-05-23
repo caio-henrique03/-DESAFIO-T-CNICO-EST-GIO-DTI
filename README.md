@@ -1,2 +1,2 @@
-# -DESAFIO-T-CNICO-EST-GIO-DTI
+# Desafia técnico DTI
 Trabalho prático DTI
